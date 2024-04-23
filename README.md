@@ -2,6 +2,10 @@ This application provides features to add todo list and save the details into lo
 
 Completed todo lists are marked with strike texts.
 
+### `npm install`
+
+To install requiered dependecies locally
+
 ### `npm start`
 
 To run the application locally on port - 3000
